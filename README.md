@@ -73,3 +73,20 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 ```
 Authorization: Bearer <ACCESS_TOKEN>
 ```
+[33mcommit b384945c775a24c49e3c327546897b96cd540aab[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: guuh457 <gustavosilva.s457@gmail.com>
+Date:   Wed May 22 16:00:04 2024 -0300
+
+    Iniciando novo projeto
+
+[33mcommit c84bf60546c9c779190acdd8172d2e572395cec8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: guuh457 <167882993+guuh457@users.noreply.github.com>
+Date:   Wed May 22 15:28:33 2024 -0300
+
+    Update README.md
+
+[33mcommit 81821d969690167f6bcc7daec38d8ad7d25b48ba[m
+Author: guuh457 <gustavosilva.s457@gmail.com>
+Date:   Tue May 21 10:03:28 2024 -0300
+
+    Adiciona projeto inicial
